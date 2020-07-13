@@ -4,7 +4,7 @@ import {
     StudentsFilterByName,
     StudentsReducer,
     StudentsFilterByRating
-} from "./TasksReducers";
+} from "./StudentsReducers";
 
 
 const allReducers = combineReducers({
